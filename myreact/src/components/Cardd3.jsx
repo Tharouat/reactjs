@@ -1,7 +1,7 @@
 import React from 'react'
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
-import eventImage from './rap.jpg';
+import eventImage from './freestyle.jpg';
 const Cardd3 = () => {
   return (
     <div>
